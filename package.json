@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-basic-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teqsk1514/nodejs-express-basic-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teqsk1514/nodejs-express-basic-setup/issues"
+  },
+  "homepage": "https://github.com/teqsk1514/nodejs-express-basic-setup#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
